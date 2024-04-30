@@ -827,60 +827,31 @@ class Phonotactics:
 			f.writelines('\t'.join(row) + '\n' for row in table)
 
 
-		# converged_grammar_zero = {x:0 for x in converged_grammar}
-		# converged_grammar_O = {key:converged_grammar[key][0] for key in converged_grammar}
-
-		# self.parameters = {**converged_grammar_zero, **E}
-		# self.parameters = {**converged_grammar_O, **O}
-		# self.parameters = {key: converged_grammar_O.get(key, self.bigram_freqs[key]) for key in set(converged_grammar_O) | set(self.bigram_freqs)}
-		# self.parameters = self.bigram_freqs
-
-		# count the bigram frequency of the whole dataset
-		# the dataset give you a distribution, we can sample the judgment 
-		# H1: expected number of each bigram as the weight of the probability interplation; banned sequences would be 0
-		# H2: observed number of each bigram as the weight of interplation. 
-		# Theory: when asking the likert rating, people are just mapping their grammatical judgments to frequency attestedness.
-		# H3: Durvasula theory. only has the weight for banned bigrams, other bigrams are considered default weight 1.
-
-		# simple_bigram = {k:(self.bigram_freqs[k], 0) for k in self.bigram_freqs}
-
-		# self.scan_and_judge_gradient(TestingFile, JudgmentFile)
-
 if __name__ == '__main__':
-	language = "polish"
-	
-	if language == 'baatonum':
-		TrainingFile = 'data/baatonum-words-cleaned-tokenized-normalized.txt'
-		# JudgmentFile = "NaN"
-		TestingFile = "NaN"
-		# TestingFile = 'data/english/EnglishTestingData.txt'
-		# JudgmentFile = "result/english/EnglishJudgment_%s.txt" % str(datetime.datetime.now()).split(".")[0].replace(" ", "-").replace(":","-")
-		# humanJudgment = "data/english/Daland_etal_2011_AverageScores.csv"
-		MatrixFile = f"result/english/matrix_{str(datetime.datetime.now()).split('.')[0].replace(' ', '-').replace(':', '-')}.txt"
-
-	if language == 'english':
-		FeatureFile = "data/english/EnglishFeatures.txt"
-		# TrainingFile = 'data/english/EnglishLearningData_CMU_exceptionful.txt'
-		TrainingFile = 'data/english/EnglishLearningData_CMU_exceptionful_noCj.txt' # replace Y with empty space
-		TestingFile = 'data/english/EnglishTestingData.txt'
-		humanJudgment = "data/english/Daland_etal_2011_AverageScores.csv"
-		MatrixFile = f"result/english/matrix_{str(datetime.datetime.now()).split('.')[0].replace(' ', '-').replace(':', '-')}.txt"
+	language = "polish" # or 
+	locality = "local" # or "nonlocal"
+	max_threshold = 0.1
 
 	if language == 'toy':
-		TrainingFile = 'data/toy/ToyLearningData_CV_3_noCC_except_CCV.txt'
-		TrainingFile = 'data/toy/ToyLearningData_CV_3.txt'
+		# TrainingFile = 'data/toy/ToyLearningData_CV_3_noCC_except_CCV.txt'
+		TrainingFile = 'data/toy/ToyLearningData.txt'
 		TestingFile = "data/toy/ToyTestingData.txt"
 		FeatureFile = "data/toy/ToyFeatures.txt"
 		JudgmentFile = "result/toy/ToyJudgment_%s.txt" % str(datetime.datetime.now()).split(".")[0].replace(" ", "-").replace(":","-")
 
 		MatrixFile = f"result/toy/matrix_{str(datetime.datetime.now()).split('.')[0].replace(' ', '-').replace(':', '-')}.txt"
 
+	if language == 'english':
+		FeatureFile = "data/english/EnglishFeatures.txt"
+		TrainingFile = 'data/english/EnglishLearningData.txt'
+		TestingFile = 'data/english/EnglishTestingData.txt'
+		humanJudgment = "data/english/EnglishJudgement.csv"
+		MatrixFile = f"result/english/matrix_{str(datetime.datetime.now()).split('.')[0].replace(' ', '-').replace(':', '-')}.txt"
+
 	if language == 'polish':
 		FeatureFile = "data/polish/PolishFeatures.txt"
-		TrainingFile = 'data/polish/LearningData.txt'
-		TestingFile = 'data/polish/TestingData_all.txt'
-		# TestingFile = 'data/polish/TestingData_novel.txt'
-		# JudgmentFile = "result/polish/polishJudgment_%s.txt" % str(datetime.datetime.now()).split(".")[0].replace(" ", "-").replace(":","-")
+		TrainingFile = 'data/polish/PolishLearningData.txt'
+		TestingFile = 'data/polish/PolishTestingData.txt'
 		humanJudgment = "NaN"
 		MatrixFile = f"result/polish/matrix_{str(datetime.datetime.now()).split('.')[0].replace(' ', '-').replace(':', '-')}.txt"
 	
@@ -892,29 +863,21 @@ if __name__ == '__main__':
 		humanJudgment = "NaN"
 		MatrixFile = f"result/turkish/matrix_{str(datetime.datetime.now()).split('.')[0].replace(' ', '-').replace(':', '-')}.txt"
 		
-	# phonotactics = Phonotactics()
 	# phonotactics.threshold = 1 #max threshold
 	# phonotactics.confidence = 0.975 #confidence level
 	# Why it's necessary to tune the threshold? because the expected count is also affected by many factors, 
 	# the padding could exaggerate the E, and the interaction could exaggerate E.
 	# phonotactics.penalty = 0.005
 
-	# phonotactics = Phonotactics()
-	# phonotactics.threshold = 0.01 # eng 0.01, polish 
-	# phonotactics.confidence = 0.99
-	# phonotactics.penalty_weight = 10
-	# phonotactics.filter = False
-	# phonotactics.main(TrainingFile, JudgmentFile, TestingFile)
 	phonotactics = Phonotactics()
 	phonotactics.language = language
-	phonotactics.structure = 'local'
+	phonotactics.structure = locality
 	phonotactics.filter = True
 	phonotactics.padding = False
 	# phonotactics.confidence = 0.975
 	phonotactics.penalty_weight = 10 #3 for real word corpora, 10 for onset-only data
 	# phonotactics.observed_smooth = 1 # only for onset data to test whether threshold is too low.
-
-	phonotactics.threshold =  0.1 # eng 0.1, turkish 0.5
+	phonotactics.threshold = max_threshold # eng 0.1, turkish 0.5
 	phonotactics.model = 'filtering' # gross (Gorman 2013; adapted) or filtering (Dai 2023）
 
 	JudgmentFile = ("result/%s/judgment_model-%s_struc-%s_flt-%s_pad-%s_conf-%s_pen-%s_thr-%s.txt" % 
@@ -962,6 +925,10 @@ if __name__ == '__main__':
 		if language == 'turkish':
 			fscore = phonotactics.evaluate_fscore(JudgmentFile)
 
+	run()
+
+
+	# code for fitting max_threshold using the testing data
 	def hyperparameter_tuning(phonotactics, TrainingFile, JudgmentFile, TestingFile, MatrixFile, humanJudgment, language):
 		# Define ranges for hyperparameters
 		thresholds = np.linspace(0.001, 1, num=10)
@@ -1028,13 +995,4 @@ if __name__ == '__main__':
 		# Save the figure
 		plt.savefig('plot/tuning.png', dpi=400)
 
-	run()
 	# hyperparameter_tuning(phonotactics, TrainingFile, JudgmentFile, TestingFile, MatrixFile, humanJudgment, language)
-
-	# Tune the hyperparameters, and plot how it changes the F-score as we change the MaxThreshold
-
-	# Best Spearman correlation:  0.816
-	# Best hyperparameters:  [(0.25,0.995)] English
-	
-	# Best Spearman correlation:  0.9101544337893827
-	# Best hyperparameters:  [[0.1, 0.975], [0.1, 0.98], [0.1, 0.985], [0.1, 0.99], [0.1, 0.995], [0.2, 0.975], [0.2, 0.98], [0.2, 0.985], [0.2, 0.99], [0.2, 0.995], [0.30000000000000004, 0.975], [0.30000000000000004, 0.98], [0.30000000000000004, 0.985], [0.30000000000000004, 0.99], [0.30000000000000004, 0.995], [0.4, 0.975], [0.4, 0.98], [0.4, 0.985], [0.4, 0.99], [0.4, 0.995], [0.5, 0.975], [0.5, 0.98], [0.5, 0.985], [0.5, 0.99], [0.5, 0.995], [0.6, 0.975]]

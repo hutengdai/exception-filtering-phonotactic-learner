@@ -1,3 +1,0 @@
-,s,ʃ
-anterior,-,+
-consonantal,+,+

@@ -1,7 +1,0 @@
-C V V
-V C V
-C V C
-V V C
-V V V
-C C V
-C C C
