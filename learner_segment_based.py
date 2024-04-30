@@ -858,9 +858,9 @@ if __name__ == '__main__':
 		MatrixFile = f"result/polish/matrix_{str(datetime.datetime.now()).split('.')[0].replace(' ', '-').replace(':', '-')}.txt"
 	
 	if language == 'turkish':
-		FeatureFile = 'data/turkish/TurkishFeatures-tell.txt'
-		TrainingFile = 'data/turkish/TurkishLearningData-tell.txt'
-		TestingFile = 'data/turkish/TurkishTestingData.txt'
+		FeatureFile = 'data/turkish/TurkishFeatures.txt'
+		TrainingFile = 'data/turkish/TurkishLearningData.txt'
+		TestingFile = 'data/turkish/TurkishTestingData-first-test.txt'
 		# JudgmentFile = "result/turkish/TurkishJudgment_%s.txt" % str(datetime.datetime.now()).split(".")[0].replace(" ", "-").replace(":","-")
 		humanJudgment = "NaN"
 		MatrixFile = f"result/turkish/matrix_{str(datetime.datetime.now()).split('.')[0].replace(' ', '-').replace(':', '-')}.txt"
