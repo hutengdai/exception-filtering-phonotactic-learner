@@ -1,3 +1,5 @@
+import argparse
+import sys
 import os
 import pprint
 import random
@@ -21,17 +23,18 @@ import seaborn as sns
 from collections import defaultdict
 from pynini import Weight, shortestdistance
 from plotnine import *
-# from wynini import config as wfst_config
-# from wynini.wfst import *
-from pynini import Weight, shortestdistance, Fst, Arc
-from learner_wfst import *
 import scipy.stats as stats
 import math
-from data_analysis import *
 import functools
+
+from pynini import Weight, shortestdistance, Fst, Arc
+from learner_wfst import *
+
+from data_analysis import *
 
 pp = pprint.PrettyPrinter(indent=4)
 pprint.sorted = lambda x, key=None: x
+
 
 
 def memoize(func):
@@ -826,15 +829,59 @@ class Phonotactics:
 		with open(MatrixFile, 'w') as f:
 			f.writelines('\t'.join(row) + '\n' for row in table)
 
+def parse_args():
+	# Define the parser and the custom usage message
+	parser = argparse.ArgumentParser(
+		description="Run phonotactics modeling with customizable settings.",
+		usage="""learner_segment_based.py <language> <locality> <max_threshold> <feature_file> 
+				<training_file> <testing_file> <judgment_file> <matrix_file> [--weight WEIGHT] [--model MODEL]
+			\n\nWhere:
+			language        : Set the language for the model.
+			locality        : Set locality type (local or nonlocal).
+			max_threshold   : Set maximum threshold for the model.
+			feature_file    : Path to the feature file.
+			training_file   : Path to the training data file.
+			testing_file    : Path to the testing data file.
+			judgment_file   : Path to the judgment file.
+			matrix_file     : Path to the output matrix file.
+			WEIGHT          : Weight for WFA transition (default: 10).
+			MODEL           : Model type (default: filtering)."""
+	)
+
+	# Required positional arguments
+	parser.add_argument("language", type=str, help="Language for the model.")
+	parser.add_argument("locality", type=str, help="Locality type (local or nonlocal).")
+	parser.add_argument("max_threshold", type=float, help="Maximum threshold for the model.")
+	# parser.add_argument("feature_file", type=str, help="Path to the feature file.")
+	# parser.add_argument("training_file", type=str, help="Path to the training data file.")
+	# parser.add_argument("testing_file", type=str, help="Path to the testing data file.")
+	# parser.add_argument("judgment_file", type=str, help="Path to the judgment file.")
+	# parser.add_argument("matrix_file", type=str, help="Path to the output matrix file.")
+
+	# Optional arguments with defaults
+	parser.add_argument("--weight", type=int, default=10, help="Weight for WFA transition (default: 10).")
+	parser.add_argument("--model", type=str, default="filtering", help="Model type (filtering or gross, default: filtering).")
+
+	return parser.parse_args()
 
 if __name__ == '__main__':
-	language = "polish" # or 
-	locality = "local" # or "nonlocal"
-	max_threshold = 0.1 # 0.1 < max_threshold < 1	
-	wfa_transition_weight = 10 # or 3 or 10; small differences
-	model = 'filtering' # 'gross' (Gorman 2013; adapted) or 'filtering' (Dai 2023）
 
-	if language == 'toy':
+	# locality = "nonlocal" # or "nonlocal"
+	# max_threshold = 0.5 # 0.1 < max_threshold < 1	
+	# wfa_transition_weight = 3 # or 3 or 10; small differences
+	# model = 'filtering' # 'gross' (Gorman 2013; adapted) or 'filtering' (Dai 2023）
+	# Example usage of parsed args
+
+	args = parse_args()
+	language = args.language  
+
+	print("Language:", args.language)
+	print("Locality:", args.locality)
+	print("Max Threshold:", args.max_threshold)
+	print("Weight:", args.weight)
+	print("Model:", args.model)
+
+	if args.language == 'toy':
 		# TrainingFile = 'data/toy/ToyLearningData_CV_3_noCC_except_CCV.txt'
 		TrainingFile = 'data/toy/ToyLearningData.txt'
 		TestingFile = "data/toy/ToyTestingData.txt"
@@ -843,38 +890,48 @@ if __name__ == '__main__':
 
 		MatrixFile = f"result/toy/matrix_{str(datetime.datetime.now()).split('.')[0].replace(' ', '-').replace(':', '-')}.txt"
 
-	if language == 'english':
+	if args.language == 'english':
 		FeatureFile = "data/english/EnglishFeatures.txt"
 		TrainingFile = 'data/english/EnglishLearningData.txt'
 		TestingFile = 'data/english/EnglishTestingData.txt'
 		humanJudgment = "data/english/EnglishJudgement.csv"
 		MatrixFile = f"result/english/matrix_{str(datetime.datetime.now()).split('.')[0].replace(' ', '-').replace(':', '-')}.txt"
 
-	if language == 'polish':
+	if args.language == 'polish':
 		FeatureFile = "data/polish/PolishFeatures.txt"
 		TrainingFile = 'data/polish/PolishLearningData.txt'
 		TestingFile = 'data/polish/PolishTestingData.txt'
 		humanJudgment = "NaN"
 		MatrixFile = f"result/polish/matrix_{str(datetime.datetime.now()).split('.')[0].replace(' ', '-').replace(':', '-')}.txt"
 	
-	if language == 'turkish':
+	if args.language == 'turkish':
 		FeatureFile = 'data/turkish/TurkishFeatures.txt'
 		TrainingFile = 'data/turkish/TurkishLearningData.txt'
-		TestingFile = 'data/turkish/TurkishTestingData-first-test.txt'
-		# JudgmentFile = "result/turkish/TurkishJudgment_%s.txt" % str(datetime.datetime.now()).split(".")[0].replace(" ", "-").replace(":","-")
+		TestingFile = 'data/turkish/TurkishTestingData.txt'
 		humanJudgment = "NaN"
 		MatrixFile = f"result/turkish/matrix_{str(datetime.datetime.now()).split('.')[0].replace(' ', '-').replace(':', '-')}.txt"
 
+
+	# Assuming Phonotactics class and other necessary imports are defined elsewhere in this script
 	phonotactics = Phonotactics()
-	phonotactics.language = language
-	phonotactics.structure = locality
+	phonotactics.language = args.language
+	phonotactics.structure = args.locality
+	phonotactics.threshold = args.max_threshold
+	phonotactics.penalty_weight = args.weight
+	phonotactics.model = args.model
 	phonotactics.filter = True
 	phonotactics.padding = False
-	# phonotactics.confidence = 0.975
-	phonotactics.penalty_weight = wfa_transition_weight 
-	# phonotactics.observed_smooth = 1 # only for onset data to test whether threshold is too low.
-	phonotactics.threshold = max_threshold # eng 0.1, turkish 0.5
-	phonotactics.model = model
+
+	# File paths
+	feature_file = f"data/{args.language}/{args.language}Features.txt"
+	training_file =  f"data/{args.language}/{args.language}LearningData.txt"
+	testing_file = f"data/{args.language}/{args.language}TestingData.txt"
+	judgment_file =  f"result/{args.language}/Judgment.txt"
+	matrix_file =  f"result/{args.language}/Matrix.txt"
+
+	# Here you can integrate the file paths into the rest of your script
+	print("Using feature file:", feature_file)
+	# Additional implementation details here
 
 	JudgmentFile = ("result/%s/judgment_model-%s_struc-%s_flt-%s_pad-%s_conf-%s_pen-%s_thr-%s.txt" % 
 		(
@@ -907,20 +964,23 @@ if __name__ == '__main__':
 
 		phonotactics.main(TrainingFile, FeatureFile, JudgmentFile, TestingFile, MatrixFile)
 
-		if language == 'english':
-			pearsoncorr, spearmancorr, kendalltaucorr, fscore = phonotactics.visual_judgefile(humanJudgment, JudgmentFile)
+		# if language == 'english':
+		# 	pearsoncorr, spearmancorr, kendalltaucorr, fscore = phonotactics.visual_judgefile(humanJudgment, JudgmentFile)
 
-		if language == 'polish':
-			# Best Spearman correlation:  0.5989787903872147
-			# Best hyperparameters:  [[0.1, 0.99]]
-			input_path = JudgmentFile
-			output_path = "result/polish/correlation_plot.png"
-			output_path_ucla = "result/polish/correlation_plot_ucla.png"
-			pearsoncorr, spearmancorr, kendalltaucorr, F1 = process_and_plot(input_path, output_path, output_path_ucla)
+		# if language == 'polish':
+		# 	# Best Spearman correlation:  0.5989787903872147
+		# 	# Best hyperparameters:  [[0.1, 0.99]]
+		# 	input_path = JudgmentFile
+		# 	output_path = "result/polish/correlation_plot.png"
+		# 	output_path_ucla = "result/polish/correlation_plot_ucla.png"
+		# 	pearsoncorr, spearmancorr, kendalltaucorr, F1 = process_and_plot(input_path, output_path, output_path_ucla)
 		
-		if language == 'turkish':
-			fscore = phonotactics.evaluate_fscore(JudgmentFile)
-
+		# if language == 'turkish':
+		# 	if "zimmer" in TestingFile.lower():
+		# 		_, _, kendalltaucorr = phonotactics.process_and_plot_zimmer(JudgmentFile)
+		# 	else:
+		# 		fscore = phonotactics.evaluate_fscore(JudgmentFile)
+		print("Done! Open the 'result' folder to find your output judgment files!")
 	run()
 
 
@@ -992,3 +1052,5 @@ if __name__ == '__main__':
 		plt.savefig('plot/tuning.png', dpi=400)
 
 	# hyperparameter_tuning(phonotactics, TrainingFile, JudgmentFile, TestingFile, MatrixFile, humanJudgment, language)
+
+
