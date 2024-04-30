@@ -928,29 +928,31 @@ if __name__ == '__main__':
 	print("Using feature file:", feature_file)
 	# Additional implementation details here
 
-	JudgmentFile = ("result/%s/judgment_model-%s_struc-%s_pen-%s_thr-%s.txt" % 
+	JudgmentFile = ("result/%s/judgment_struc-%s_thr-%s_pen-%s_model-%s.txt" % 
 		(
 		phonotactics.language,
-		phonotactics.model,
 		phonotactics.structure, 
 		# 'T' if phonotactics.filter else 'F', 
 		# 'T' if phonotactics.padding else 'F', 
 		# str(phonotactics.confidence), 
+		str(phonotactics.threshold),
 		str(phonotactics.penalty_weight), 
-		str(phonotactics.threshold)
+		phonotactics.model
 		)
 	)
 	
-	MatrixFile = ("result/%s/matrix_model-%s_struc-%s_pen-%s_thr-%s.txt" % 
+
+
+	MatrixFile = ("result/%s/matrix_struc-%s_thr-%s_pen-%s_model-%s.txt" % 
 		(
 		phonotactics.language,
-		phonotactics.model,
 		phonotactics.structure, 
 		# 'T' if phonotactics.filter else 'F', 
 		# 'T' if phonotactics.padding else 'F', 
 		# str(phonotactics.confidence), 
+		str(phonotactics.threshold),
 		str(phonotactics.penalty_weight), 
-		str(phonotactics.threshold)
+		phonotactics.model
 		)
 	)
 
