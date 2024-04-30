@@ -830,7 +830,9 @@ class Phonotactics:
 if __name__ == '__main__':
 	language = "polish" # or 
 	locality = "local" # or "nonlocal"
-	max_threshold = 0.1
+	max_threshold = 0.1 # 0.1 < max_threshold < 1	
+	wfa_transition_weight = 10 # or 3 or 10; small differences
+	model = 'filtering' # 'gross' (Gorman 2013; adapted) or 'filtering' (Dai 2023）
 
 	if language == 'toy':
 		# TrainingFile = 'data/toy/ToyLearningData_CV_3_noCC_except_CCV.txt'
@@ -862,12 +864,6 @@ if __name__ == '__main__':
 		# JudgmentFile = "result/turkish/TurkishJudgment_%s.txt" % str(datetime.datetime.now()).split(".")[0].replace(" ", "-").replace(":","-")
 		humanJudgment = "NaN"
 		MatrixFile = f"result/turkish/matrix_{str(datetime.datetime.now()).split('.')[0].replace(' ', '-').replace(':', '-')}.txt"
-		
-	# phonotactics.threshold = 1 #max threshold
-	# phonotactics.confidence = 0.975 #confidence level
-	# Why it's necessary to tune the threshold? because the expected count is also affected by many factors, 
-	# the padding could exaggerate the E, and the interaction could exaggerate E.
-	# phonotactics.penalty = 0.005
 
 	phonotactics = Phonotactics()
 	phonotactics.language = language
@@ -875,10 +871,10 @@ if __name__ == '__main__':
 	phonotactics.filter = True
 	phonotactics.padding = False
 	# phonotactics.confidence = 0.975
-	phonotactics.penalty_weight = 10 #3 for real word corpora, 10 for onset-only data
+	phonotactics.penalty_weight = wfa_transition_weight 
 	# phonotactics.observed_smooth = 1 # only for onset data to test whether threshold is too low.
 	phonotactics.threshold = max_threshold # eng 0.1, turkish 0.5
-	phonotactics.model = 'filtering' # gross (Gorman 2013; adapted) or filtering (Dai 2023）
+	phonotactics.model = model
 
 	JudgmentFile = ("result/%s/judgment_model-%s_struc-%s_flt-%s_pad-%s_conf-%s_pen-%s_thr-%s.txt" % 
 		(
