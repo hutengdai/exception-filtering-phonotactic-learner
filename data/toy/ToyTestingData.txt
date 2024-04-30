@@ -1,0 +1,3 @@
+C V	grammatical
+V C	grammatical
+C C	ungrammatical

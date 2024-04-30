@@ -1,0 +1,5 @@
+		C			V			<	s	>			<	e	>
+C			1			1			1			N	a	N
+V			1			1			1			N	a	N
+<	s	>			1			1			1			N	a	N
+<	e	>			N	a	N			N	a	N			N	a	N			N	a	N

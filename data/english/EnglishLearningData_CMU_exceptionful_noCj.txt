@@ -1,0 +1,31688 @@
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B L
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B R
+B W
+B W
+B W
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D R
+D W
+D W
+D W
+D W
+D W
+D W
+D W
+D W
+D W
+D W
+D W
+D W
+D W
+D W
+D W
+D W
+D W
+DH
+DH
+DH
+DH
+DH
+DH
+DH
+DH
+DH
+DH
+DH
+DH
+DH
+DH
+DH
+DH
+DH
+DH
+DH
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F L
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F R
+F W
+F W
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G L
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G R
+G W
+G W
+G W
+G W
+G W
+G W
+G W
+G W
+G W
+G W
+G W
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH
+HH R
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+HH W
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+JH
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K L
+K N
+K N
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K R
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+K W
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M W
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N W
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P L
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P R
+P W
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S F
+S F
+S F
+S F
+S F
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K
+S K L
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K R
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S K W
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S L
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S M
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S N
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P L
+S P L
+S P L
+S P L
+S P L
+S P L
+S P L
+S P L
+S P L
+S P L
+S P L
+S P L
+S P L
+S P L
+S P L
+S P L
+S P L
+S P L
+S P L
+S P L
+S P L
+S P L
+S P L
+S P L
+S P L
+S P L
+S P L
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S P R
+S R
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S T R
+S TH
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+S W
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH
+SH L
+SH L
+SH L
+SH L
+SH L
+SH M
+SH M
+SH M
+SH M
+SH M
+SH N
+SH N
+SH N
+SH N
+SH P
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH R
+SH T
+SH T
+SH T
+SH W
+SH W
+SH W
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T R
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+T W
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH R
+TH W
+TH W
+TH W
+TH W
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V L
+V L
+V R
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z
+Z L
+Z W
+ZH
+ZH
+ZH
