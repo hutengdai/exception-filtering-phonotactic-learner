@@ -10,19 +10,14 @@ import scipy.stats as stats
 import matplotlib.font_manager as fm
 import matplotlib.pyplot as plt
 import matplotlib as mpl
-import statsmodels.api as sm
-from statsmodels.formula.api import ols
 
 import numpy as np
 import pandas as pd
-from scipy.special import softmax
 from scipy.stats import kendalltau, pearsonr, spearmanr, beta, norm, pointbiserialr
 from sklearn.metrics import accuracy_score
-import researchpy as rp
-import seaborn as sns
 from collections import defaultdict
 from pynini import Weight, shortestdistance
-from plotnine import *
+# from plotnine import *
 import scipy.stats as stats
 import math
 import functools
@@ -833,11 +828,11 @@ def parse_args():
 	# Define the parser and the custom usage message
 	parser = argparse.ArgumentParser(
 		description="Run phonotactics modeling with customizable settings.",
-		usage="""learner_segment_based.py <language> <locality> <max_threshold> <feature_file> 
+		usage="""learner_segment_based.py <language> <structure> <max_threshold> <feature_file> 
 				<training_file> <testing_file> <judgment_file> <matrix_file> [--weight WEIGHT] [--model MODEL]
 			\n\nWhere:
 			language        : Set the language for the model.
-			locality        : Set locality type (local or nonlocal).
+			structure        : Set structure type (local or nonlocal).
 			max_threshold   : Set maximum threshold for the model.
 			feature_file    : Path to the feature file.
 			training_file   : Path to the training data file.
@@ -850,7 +845,7 @@ def parse_args():
 
 	# Required positional arguments
 	parser.add_argument("language", type=str, help="Language for the model.")
-	parser.add_argument("locality", type=str, help="Locality type (local or nonlocal).")
+	parser.add_argument("structure", type=str, help="Structure type (local or nonlocal).")
 	parser.add_argument("max_threshold", type=float, help="Maximum threshold for the model.")
 	# parser.add_argument("feature_file", type=str, help="Path to the feature file.")
 	# parser.add_argument("training_file", type=str, help="Path to the training data file.")
@@ -866,7 +861,7 @@ def parse_args():
 
 if __name__ == '__main__':
 
-	# locality = "nonlocal" # or "nonlocal"
+	# structure = "nonlocal" # or "nonlocal"
 	# max_threshold = 0.5 # 0.1 < max_threshold < 1	
 	# wfa_transition_weight = 3 # or 3 or 10; small differences
 	# model = 'filtering' # 'gross' (Gorman 2013; adapted) or 'filtering' (Dai 2023）
@@ -876,7 +871,7 @@ if __name__ == '__main__':
 	language = args.language  
 
 	print("Language:", args.language)
-	print("Locality:", args.locality)
+	print("Structure:", args.structure)
 	print("Max Threshold:", args.max_threshold)
 	print("Weight:", args.weight)
 	print("Model:", args.model)
@@ -915,7 +910,7 @@ if __name__ == '__main__':
 	# Assuming Phonotactics class and other necessary imports are defined elsewhere in this script
 	phonotactics = Phonotactics()
 	phonotactics.language = args.language
-	phonotactics.structure = args.locality
+	phonotactics.structure = args.structure
 	phonotactics.threshold = args.max_threshold
 	phonotactics.penalty_weight = args.weight
 	phonotactics.model = args.model
@@ -933,27 +928,27 @@ if __name__ == '__main__':
 	print("Using feature file:", feature_file)
 	# Additional implementation details here
 
-	JudgmentFile = ("result/%s/judgment_model-%s_struc-%s_flt-%s_pad-%s_conf-%s_pen-%s_thr-%s.txt" % 
+	JudgmentFile = ("result/%s/judgment_model-%s_struc-%s_pen-%s_thr-%s.txt" % 
 		(
 		phonotactics.language,
 		phonotactics.model,
 		phonotactics.structure, 
-		'T' if phonotactics.filter else 'F', 
-		'T' if phonotactics.padding else 'F', 
-		str(phonotactics.confidence), 
+		# 'T' if phonotactics.filter else 'F', 
+		# 'T' if phonotactics.padding else 'F', 
+		# str(phonotactics.confidence), 
 		str(phonotactics.penalty_weight), 
 		str(phonotactics.threshold)
 		)
 	)
 	
-	MatrixFile = ("result/%s/matrix_model-%s_struc-%s_flt-%s_pad-%s_conf-%s_pen-%s_thr-%s.txt" % 
+	MatrixFile = ("result/%s/matrix_model-%s_struc-%s_pen-%s_thr-%s.txt" % 
 		(
 		phonotactics.language,
 		phonotactics.model,
 		phonotactics.structure, 
-		'T' if phonotactics.filter else 'F', 
-		'T' if phonotactics.padding else 'F', 
-		str(phonotactics.confidence), 
+		# 'T' if phonotactics.filter else 'F', 
+		# 'T' if phonotactics.padding else 'F', 
+		# str(phonotactics.confidence), 
 		str(phonotactics.penalty_weight), 
 		str(phonotactics.threshold)
 		)
