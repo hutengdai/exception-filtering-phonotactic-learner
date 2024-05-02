@@ -23,7 +23,7 @@ import math
 import functools
 
 from pynini import Weight, shortestdistance, Fst, Arc
-from learner_wfst import *
+from wfst import *
 
 from data_analysis import *
 
