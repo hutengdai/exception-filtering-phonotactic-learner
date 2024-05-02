@@ -8,7 +8,7 @@ Let's first make sure you have Python 3 and pip installed on your system. For ex
 ```bash
 python3 --version
 ```
-(This checks for Python 3 specifically, as macOS comes with Python 2.7 pre-installed as "python".) If you get error message like "command not found: python3", you probably don't have python properly installed. You can download python from https://www.python.org/downloads/. You can find many video tutorials on the installation of python.
+(This checks for Python 3 specifically, as macOS comes with Python 2.7 pre-installed as "python".) If you get error message like "command not found: python3", you probably don't have python properly installed. You can download python from https://www.python.org/downloads/. You can find many video tutorials about the installation of python.
 
 
 ## Installation
