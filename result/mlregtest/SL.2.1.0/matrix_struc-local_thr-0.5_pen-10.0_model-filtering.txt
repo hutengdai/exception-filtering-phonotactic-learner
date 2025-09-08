@@ -1,7 +1,5 @@
-		d			a			b			c			<	s	>			<	e	>
-d			1			1			1			1			1			N	a	N
-a			1			0			1			1			1			N	a	N
-b			1			1			1			1			1			N	a	N
-c			1			1			1			1			1			N	a	N
-<	s	>			1			1			1			1			1			N	a	N
-<	e	>			N	a	N			N	a	N			N	a	N			N	a	N			N	a	N			N	a	N
+			d			a			b			c	
+d			1			1			1			1
+a			1			0			1			1
+b			1			1			1			1
+c			1			1			1			1
