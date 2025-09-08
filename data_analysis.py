@@ -8,7 +8,6 @@ import matplotlib.font_manager as fm
 import matplotlib.pyplot as plt
 from sklearn.metrics import precision_score, recall_score, f1_score
 
-from adjustText import adjust_text
 import pprint
 pp = pprint.PrettyPrinter(indent=4)
 pprint.sorted = lambda x, key=None: x
@@ -67,7 +66,7 @@ def process_and_plot(input_path, output_path, output_path_ucla):
 	# data.loc[data['likert_rating'] < data['avg_rating'] - data['std_dev'], 'boolean'] = 0
 	# data['midpoint'] = (data.groupby('subj')['likert_rating'].transform('min') + data.groupby('subj')['likert_rating'].transform('max')) / 2
 	# do a clustering of the likert rating for each subject, and use  distribution to assign 0 and 1 randomly.
-	
+
 	# data['boolean'] = (data['likert_rating'] > data['cutoff']).astype(int)
 	data['score'] = data['score'].astype(float)
 	# Add the frequency column
@@ -103,7 +102,7 @@ def process_and_plot(input_path, output_path, output_path_ucla):
 	print('F1 Score: ', f1)
 
 	# data["logscore"] = data["score"].apply(logit)
-	
+
 	# Display correlation coefficients
 	# correlation_methods = ['pearson', 'spearman', 'kendall']
 	# for method in correlation_methods:
@@ -116,7 +115,7 @@ def process_and_plot(input_path, output_path, output_path_ucla):
 	print('Pearson correlation: %.3f' % pearsoncorr)
 	print('Pearson  pvalue: %.3f' % p)
 
-	# 
+	#
 	spearmancorr, s = spearmanr(data['score'], data['zscore'])
 	print('Spearman correlation: %.3f' % spearmancorr)
 	print('Spearman pvalue: %.3f' % s)
@@ -160,15 +159,15 @@ def process_and_plot(input_path, output_path, output_path_ucla):
 	# title_text.set_size(16)
 	# axis_text.set_size(12)
 	# body_text.set_size(12)
-	
+
 	# annotation_spearman = 'Spearman: %.3f' % round(spearmancorr, 3)
-	
+
 	# # Plot the averaged data with the logistic regression curve
 	# averaged_plot = (ggplot(data, aes(x='score', y='likert_rating')) +
-	# 				geom_point(aes(color='frequency', shape='frequency')) + 
+	# 				geom_point(aes(color='frequency', shape='frequency')) +
 	# 				scale_color_brewer(type="qual", palette="Set1") +
 	# 				geom_smooth(method='lm', mapping = aes(x='score', y='likert_rating'), color = 'gray', inherit_aes=False) +
-	# 				labs(x='Predicted judgment', y='Likert rating') + 
+	# 				labs(x='Predicted judgment', y='Likert rating') +
 	# 				theme(legend_position=(0.34, 0.8), legend_direction='vertical', legend_title=element_blank(),
 	# 					figure_size=(3,5),
 	# 					axis_line_x=element_line(size=0.6, color="black"),
@@ -181,11 +180,11 @@ def process_and_plot(input_path, output_path, output_path_ucla):
 	# 					text=element_text(fontproperties=body_text),
 	# 					axis_text_x=element_text(color="black"),
 	# 					axis_text_y=element_text(color="black")) +
-	# 				scale_y_continuous(breaks=np.arange(1, 5.01, 1), 
+	# 				scale_y_continuous(breaks=np.arange(1, 5.01, 1),
 	# 				limits=[1, 5.1]) +
-	# 				scale_x_continuous(breaks=np.arange(0, 1.005, 0.5), 
+	# 				scale_x_continuous(breaks=np.arange(0, 1.005, 0.5),
 	# 				limits=[0, 1.005]) +
-	# 				geom_text(aes(x=0.5, y = 1.9), family = "Times New Roman", label = annotation_spearman) 
+	# 				geom_text(aes(x=0.5, y = 1.9), family = "Times New Roman", label = annotation_spearman)
 	# 				+ geom_text(aes(label='form', color='frequency'), size=12, position=position_nudge(x=0.1, y=0.7), show_legend=False)
 	# 				# theme_bw() +
 	# 		# 		theme(panel_grid_major = element_blank(), panel_grid_minor = element_blank(), legend_margin=0.5,
@@ -209,7 +208,7 @@ def process_and_plot(input_path, output_path, output_path_ucla):
 	# print('Pearson correlation: %.3f' % pearsoncorr)
 	# print('Pearson  pvalue: %.3f' % p)
 
-	# # 
+	# #
 	# spearmancorr, s = spearmanr(data['eharmony'], data['likert_rating'])
 	# print('Spearman correlation: %.3f' % spearmancorr)
 	# print('Spearman pvalue: %.3f' % s)
@@ -218,12 +217,12 @@ def process_and_plot(input_path, output_path, output_path_ucla):
 	# print('Kendall correlation: %.3f' % kendalltaucorr)
 	# print('Kendall pvalue: %.3f' % k)
 	# annotation_spearman = 'Spearman: %.3f' % round(spearmancorr, 3)
-	
+
 	# averaged_plot_ucla = (ggplot(data, aes(x='eharmony', y='likert_rating')) +
-	# 				geom_point(aes(color='frequency', shape='frequency')) + 
+	# 				geom_point(aes(color='frequency', shape='frequency')) +
 	# 				scale_color_brewer(type="qual", palette="Set1") +
 	# 				geom_smooth(method='lm', mapping = aes(x='score', y='likert_rating'), color = 'gray', inherit_aes=False) +
-	# 				labs(x='Predicted judgment', y='Likert rating') + 
+	# 				labs(x='Predicted judgment', y='Likert rating') +
 	# 				theme(legend_position=(0.7, 0.2), legend_direction='vertical', legend_title=element_blank(),
 	# 				figure_size=(3,5),
 	# 				axis_line_x=element_line(size=0.6, color="black"),
@@ -236,9 +235,9 @@ def process_and_plot(input_path, output_path, output_path_ucla):
 	# 				text=element_text(fontproperties=body_text),
 	# 				axis_text_x=element_text(color="black"),
 	# 				axis_text_y=element_text(color="black")) +
-	# 				scale_y_continuous(breaks=np.arange(1, 5.01, 1), 
+	# 				scale_y_continuous(breaks=np.arange(1, 5.01, 1),
 	# 				limits=[1, 5.1]) +
-	# 				scale_x_continuous(breaks=np.arange(0, 1.005, 0.25), 
+	# 				scale_x_continuous(breaks=np.arange(0, 1.005, 0.25),
 	# 				limits=[0, 1.005]) +
 	# 				geom_text(aes(x=0.5, y = 1.9), family = "Times New Roman", label = annotation_spearman
 	# 				)
@@ -264,7 +263,7 @@ def subject_plot(data):
 		# Replace symbols in "form" column
 		replace_dict = {'rz': 'ʐ', 'sz': 'ʂ', 'cz': 'tʂ', 'dzi': 'dʐ', 'si': 'ɕ', 'zi': 'ʑ', 'ni': 'ɲ', 'dz': 'dz',  'w': 'v', 'ł' : 'w', 'ch':'x'}
 		subj_data['form'] = subj_data['form'].replace(replace_dict, regex=True)
-		
+
 		# plot the data for the current subject
 		averaged_plot = (ggplot(subj_data, aes(x='score', y='likert_rating', color='frequency')) +
 						geom_point(alpha=0.5, show_legend=True, size = 0.7) +
@@ -285,7 +284,7 @@ def subject_plot(data):
 		# save the plot for the current subject
 		output_path = f"result/polish/{subj}_output.png"
 		ggsave(filename=output_path, plot=averaged_plot, dpi=300)
-	
+
 
 if __name__ == '__main__':
 	input_path = "result/polish/polishJudgement_2023-06-23-16-34-01.txt"

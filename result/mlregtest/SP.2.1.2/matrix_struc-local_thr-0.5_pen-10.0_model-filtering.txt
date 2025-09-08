@@ -1,0 +1,7 @@
+		d			a			b			c			<	s	>			<	e	>
+d			1			1			1			1			1			N	a	N
+a			0			1			0			1			1			N	a	N
+b			0			0			1			1			1			N	a	N
+c			0			0			0			1			1			N	a	N
+<	s	>			1			1			1			1			1			N	a	N
+<	e	>			N	a	N			N	a	N			N	a	N			N	a	N			N	a	N			N	a	N
